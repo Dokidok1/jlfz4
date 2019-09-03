@@ -1,34 +1,34 @@
-#stakeholder
+# stakeholder
 
 
-#takeholders
+# takeholders
 	-photographers
-		-photo organisation
-		-devices to make photo	
-		-softwares to edit photos
+		- photo organisation
+		- devices to make photo	
+		- softwares to edit photos
 	-editors
-		-grammar & spelling check
-		-software used to check
+		- grammar & spelling check
+		- software used to check
 
 	-journalists
-		-access to match photos to articles
-		-ability to write good article
+		- access to match photos to articles
+		- ability to write good article
 
-#Users
+# Users
 	-readers
-		-account
-		-profile
-		-category for genere searching
-		-security 
-		-preference setting
-		-payment for subscription
+		- account
+		- profile
+		- category for genere searching
+		- security 
+		- preference setting
+		- payment for subscription
 	-all stakeholders
-		-accounts w/ manager access
-		-not able to access reader payment information
+		- accounts w/ manager access
+		- not able to access reader payment information
 	
 
-#System Requirements
-	-disk storage
-	-web interface
-	-database
+# System Requirements
+	- disk storage
+	- web interface
+	- database
 	
