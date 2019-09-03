@@ -1,4 +1,7 @@
-takeholders?
+#stakeholder
+
+
+#takeholders
 	-photographers
 		-photo organisation
 		-devices to make photo	
@@ -11,7 +14,7 @@ takeholders?
 		-access to match photos to articles
 		-ability to write good article
 
-Users?
+#Users
 	-readers
 		-account
 		-profile
@@ -24,7 +27,7 @@ Users?
 		-not able to access reader payment information
 	
 
-System Requirements?
+#System Requirements
 	-disk storage
 	-web interface
 	-database
