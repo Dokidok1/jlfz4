@@ -1,0 +1,9 @@
+{
+  "00_login_fail.py::test_login": true, 
+  "00_login_fail.py::test_password": true, 
+  "01_subm_fail.py::test_assign": true, 
+  "01_subm_fail.py::test_sub": true, 
+  "02_subfile_fail.py::test_subfile": true, 
+  "03_resub_fail.py::test_resub": true, 
+  "04_conta_fail.py::test_contactta": true
+}
