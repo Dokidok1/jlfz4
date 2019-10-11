@@ -3,10 +3,7 @@
   "00_login_fail.py::test_password": true, 
   "01_subm_fail.py::test_assign": true, 
   "01_subm_fail.py::test_sub": true, 
-  "01_subm_test.py": true, 
-  "02_subfile_fail.py": true, 
   "02_subfile_fail.py::test_subfile": true, 
   "03_resub_fail.py::test_resub": true, 
-  "03_resub_test.py": true, 
-  "04_conta_fail.py::test_contactta": true
+  "04_conta_fail.py": true
 }
