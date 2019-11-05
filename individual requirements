@@ -4,6 +4,7 @@
   from augur.
 
 2.Software Production Overview
+  it s a web interface allow user interact with augur data
   
   
   
@@ -13,19 +14,36 @@
   intellegence they want have a look. Also, to fulfill clients' desire, we will have to take a survey to see what function supposed to
   be implemented and what kind of layout works convinient for customer to use.
 
+
 4.System Requirements
 
+functional:
+          retrive data from augur 
+          link the data from augur to this image or chart in our interface
+          keep updateing data from augur
+          drop-down menu show all the penals which associate with augur data
+          
+non-functional
+          logical nevagition to click in to a repo data and the function to go back last page or main menu
+          clean fonts and color design allow user easy to access
+          clear layout, arrange menu penals orderly
+          
 
 
 
 5.Design Constraints
+ data shows in each diagram related to each repo correctly
+ data keep updated
+ once the data in repo updated, the chart also need be changed in time
+ change the ordedr or layout based on the latest updated data 
 
 
 
 6.Purchased Components
-css, html,j
+need a server to keep the data from augur and the web
 
 
 
 
 7.Interfaces
+  build with css, json, html
