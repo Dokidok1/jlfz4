@@ -1,16 +1,20 @@
 1.introduction
-  In this project, we will work as an front-end group and develop the system which shows the user the data from augur system, instead of just showing the data,
-  provide users the logical and easy-access interface is equally important as the accurate data from augur.
+  In this project, we will work as an front-end group and develop the system which shows the user the data from augur system, 
+  instead of just showing the data, provide users the logical and easy-access interface is equally important as the accurate data
+  from augur.
 
 2.Software Production Overview
   
   
   
 3.System Use
-
-
+  For the clients, this system will be used to provided them the data and chart retreived from augur, in the interface, users could
+  also operate with the system the way they want, for example, there will be drop-down button for user to choose which category of
+  intellegence they want have a look. Also, to fulfill clients' desire, we will have to take a survey to see what function supposed to
+  be implemented and what kind of layout works convinient for customer to use.
 
 4.System Requirements
+
 
 
 
@@ -19,7 +23,7 @@
 
 
 6.Purchased Components
-
+css, html,j
 
 
 
