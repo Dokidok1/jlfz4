@@ -18,6 +18,9 @@
 
 4.System Requirements
 
+use case 1: https://github.com/Dokidok1/jlfz4/blob/master/use%20case%201.jpg
+use case 2: https://github.com/Dokidok1/jlfz4/blob/master/use%20case2.jpg
+
 functional:
           retrive data from augur 
           link the data from augur to this image or chart in our interface
@@ -37,6 +40,7 @@ non-functional
  data keep updated
  once the data in repo updated, the chart also need be changed in time
  change the ordedr or layout based on the latest updated data 
+ able to user open several tabs for the interface in same browser
 
 
 
