@@ -1,7 +1,8 @@
 1.introduction
-  In this project, we will work as an front-end group and develop the system which shows the user the data from augur system, 
-  instead of just showing the data, provide users the logical and easy-access interface is equally important as the accurate data
-  from augur.
+  In this project, we will work as an front-end mix skill group and develop the system which retrive data from augur system into 
+  web and make it visible as chart or diagram, such as the top commit contributor in each repository and the total commits number 
+  she/he made instead of just showing the data, provide users the logical and easy-access interface is equally important as the
+  accurate data from augur.
 
 2.Software Production Overview
   it s a web interface allow user interact with augur data
