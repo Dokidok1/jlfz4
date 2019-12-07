@@ -1,0 +1,11 @@
+/Users/Austinibeh/Desktop/run2/run2/bin/Debug/netcoreapp3.0/run2
+/Users/Austinibeh/Desktop/run2/run2/bin/Debug/netcoreapp3.0/run2.deps.json
+/Users/Austinibeh/Desktop/run2/run2/bin/Debug/netcoreapp3.0/run2.runtimeconfig.json
+/Users/Austinibeh/Desktop/run2/run2/bin/Debug/netcoreapp3.0/run2.runtimeconfig.dev.json
+/Users/Austinibeh/Desktop/run2/run2/bin/Debug/netcoreapp3.0/run2.dll
+/Users/Austinibeh/Desktop/run2/run2/bin/Debug/netcoreapp3.0/run2.pdb
+/Users/Austinibeh/Desktop/run2/run2/obj/Debug/netcoreapp3.0/run2.csprojAssemblyReference.cache
+/Users/Austinibeh/Desktop/run2/run2/obj/Debug/netcoreapp3.0/run2.AssemblyInfoInputs.cache
+/Users/Austinibeh/Desktop/run2/run2/obj/Debug/netcoreapp3.0/run2.AssemblyInfo.cs
+/Users/Austinibeh/Desktop/run2/run2/obj/Debug/netcoreapp3.0/run2.dll
+/Users/Austinibeh/Desktop/run2/run2/obj/Debug/netcoreapp3.0/run2.pdb

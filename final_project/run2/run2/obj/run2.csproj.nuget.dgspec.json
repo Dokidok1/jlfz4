@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\4320-work\\jlfz4\\final_project\\run2\\run2\\run2.csproj": {}
+  },
+  "projects": {
+    "C:\\4320-work\\jlfz4\\final_project\\run2\\run2\\run2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\4320-work\\jlfz4\\final_project\\run2\\run2\\run2.csproj",
+        "projectName": "run2",
+        "projectPath": "C:\\4320-work\\jlfz4\\final_project\\run2\\run2\\run2.csproj",
+        "packagesPath": "C:\\Users\\Dokidoki\\.nuget\\packages\\",
+        "outputPath": "C:\\4320-work\\jlfz4\\final_project\\run2\\run2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dokidoki\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
